@@ -1,0 +1,50 @@
+body {
+    background-color: #008c8c;
+  }
+  .card:hover {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  }
+  .card:hover > .hr {
+    width: 50% !important;
+    color: #066c6a !important;
+    padding: 2px !important;
+  }
+  
+  .icon__class__Canncel {
+    flex: 0.1;
+    color: red;
+  }
+  .header__category {
+    font-weight: bold;
+  }
+  hr {
+    color: gray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .button__width {
+    width: 90%;
+  }
+  .mergeIcons {
+    display: flex;
+    align-content: center;
+    padding-top: 20px;
+  }
+  .icon__class {
+    flex: 0.1;
+    color: green;
+  }
+  .first__condition {
+    font-weight: bold;
+    flex: 0.9;
+  }
+  
+  .card {
+    border-radius: 25px;
+    margin-bottom: 15px;
+  }
+  .button__width:hover {
+    color: black;
+    background-color: white;
+  }
+  

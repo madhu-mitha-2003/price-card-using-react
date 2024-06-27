@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+  }
+  .container {
+    margin-top: 6%;
+  }
+  .hr {
+    width: 20%;
+    color: #008c8c;
+    padding: 2px;
+  }
+  
